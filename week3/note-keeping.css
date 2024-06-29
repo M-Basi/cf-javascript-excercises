@@ -1,0 +1,15 @@
+.btn1 {
+    border-radius: 50%;
+}
+
+.borderblack {
+    border: 1px solid black
+}
+
+.widthholder {
+    width: 70%;
+}
+
+.textDecor {
+    text-decoration: line-through;
+}

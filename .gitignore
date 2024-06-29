@@ -1,0 +1,7 @@
+.idea/
+.git/
+out/
+**/*.iml
+**/*.log
+
+
